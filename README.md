@@ -23,13 +23,22 @@
 #### 💻 Languages & Frameworks:
 - ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
 - ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
+- ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 
 #### 🔧 Tools & Platforms:
+- ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 - ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
+
+#### 📊 Database:
+- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+
+#### 🧠 Problem Solving:
+- Solving challenges on platforms like **LeetCode**, **Codeforces**, and **HackerRank** to sharpen my skills.
 
 ---
 
