@@ -14,11 +14,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-osama-7a3013265)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaz.osama.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moaz-osama.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moazosama1.github.io/my-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaz-osama)
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/moaz_osama3)
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/moaz_osama_a)
 
-![Profile Views](https://komarev.com/ghpvc/?username=moaz-osama&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -32,7 +31,7 @@
 
 ### Hi, I'm Moaz 👋
 
-Flutter Developer with **1.5+ years** of experience building scalable, production-grade cross-platform applications.
+Flutter Developer with **1+ years** of experience building scalable, production-grade cross-platform applications.
 
 🎓 &nbsp;**CS Engineering** — Higher Technological Institute · Elite 10x Cohort
 🏗️ &nbsp;Passionate about **Clean Architecture**, **MVI**, and testable codebases
