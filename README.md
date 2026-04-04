@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=📱+Flutter+Developer+%7C+1.5%2B+Years+Experience;🏗️+Clean+Architecture+%7C+MVI+%7C+BLoC%2FCubit;🤖+AI+Agents+%26+Gemini+AI+Integration;🎓+CS+Engineering+—+HTI+Elite+10x+Cohort;🚀+Published+Apps+on+Google+Play)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=📱+Flutter+Developer+%7C+1%2B+Years+Experience;🏗️+Clean+Architecture+%7C+MVI+%7C+BLoC%2FCubit;🤖+AI+Agents+%26+Gemini+AI+Integration;🎓+CS+Engineering+—+HTI+Elite+10x+Cohort;🚀+Published+Apps+on+Google+Play)](https://git.io/typing-svg)
 
 </div>
 
